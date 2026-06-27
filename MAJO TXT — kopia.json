@@ -1,0 +1,688 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Logogogogo",
+      "replace_ids": [
+        13854780213
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/undertale-txtpack/main/undlogo.png"
+    },
+    {
+      "name": "ding czy co\u015b do head\u00f3w",
+      "replace_ids": [
+        "16537337310\n16537449730"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/undertale-txtpack/main/snd_break1.wav"
+    },
+    {
+      "name": "maczpojnt",
+      "replace_ids": [
+        17153811469
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/undertale-txtpack/main/snd_heavydamage.wav"
+    },
+    {
+      "name": "remis (nah bro prawie XDDD)",
+      "replace_ids": [
+        17153811469
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/undertale-txtpack/main/sdfinal.ogg"
+    },
+    {
+      "name": "superzdj\u0119\u0107ko",
+      "replace_ids": [
+        133917828562858
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/Fonts/blob/main/Nowy%20projekt%20(1).png?raw=true"
+    },
+    {
+      "name": "d\u017cwi\u0119k czekania",
+      "replace_ids": [
+        99135525400251
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 7712639823
+    },
+    {
+      "name": "Support nieba",
+      "replace_ids": [
+        127338559130032,
+        16294586406,
+        75156669118637,
+        93477262732302
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/undertale-txtpack/main/SyneMono-Regular.ttf"
+    },
+    {
+      "name": "GoogleSans Font btw",
+      "replace_ids": [
+        12187323909,
+        12187320363,
+        12187354260,
+        12187342816,
+        12187280273,
+        12187303601,
+        12187262242,
+        12187288714,
+        12187341500,
+        12187271237,
+        12187341020
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/loharashwin25/Comic-Sans-MS-Font/raw/refs/heads/master/system/fonts/GoogleSans-Bold.ttf"
+    },
+    {
+      "name": "clean t\u0142o beoni",
+      "replace_ids": [
+        13220167337,
+        13188242420,
+        13220167472,
+        13188153054,
+        13188242287
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "USUN\u0104\u0106 N!!1111!!!!",
+      "replace_ids": [
+        13854780042
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "nosnik",
+      "replace_ids": [
+        13854780213
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/Fonts/blob/main/Nowy%20projekt%20(3).png?raw=true"
+    },
+    {
+      "name": "ikonka eliminacji",
+      "replace_ids": [
+        16802957270
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/Fonts/blob/main/Nowy%20projekt%20(2).png?raw=true"
+    },
+    {
+      "name": "lvl ikonka",
+      "replace_ids": [
+        81461991645938
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/undertale-txtpack/main/lvl.png"
+    },
+    {
+      "name": "muzyczka",
+      "replace_ids": [
+        17697682466,
+        17733314783
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/Fonts/raw/refs/heads/main/weew.mp3"
+    },
+    {
+      "name": "logo v2 bo sie zepsulo:(",
+      "replace_ids": [
+        17803962335
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/undertale-txtpack/main/undlogo.png"
+    },
+    {
+      "name": "suden def",
+      "replace_ids": [
+        17467242617
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/bluer.ogg"
+    },
+    {
+      "name": "replace demote rank with awwww",
+      "replace_ids": [
+        91547731028928
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/studio-audience-awwww-sound-fx.mp3"
+    },
+    {
+      "name": "arenka by me",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/Fonts/blob/main/Nowy%20projekt%20(7)%20(1).png?raw=true"
+    },
+    {
+      "name": "NieboBK",
+      "replace_ids": [
+        2108482005,
+        14147881792,
+        135908632589654,
+        84214501374682,
+        10196550937,
+        12261809766
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/Fonts/raw/refs/heads/main/sky512_bk.tex"
+    },
+    {
+      "name": "NIeboDN",
+      "replace_ids": [
+        2108545280,
+        10196550667,
+        14147882149,
+        103020541883227,
+        89972436184102,
+        12261813110
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/Fonts/raw/refs/heads/main/sky512_dn.tex"
+    },
+    {
+      "name": "NieboLF",
+      "replace_ids": [
+        14147883091,
+        135908632589654,
+        84214501374682,
+        2108482395,
+        12261809766,
+        10196550128
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/Fonts/raw/refs/heads/main/sky512_lf.tex"
+    },
+    {
+      "name": "NieboRT",
+      "replace_ids": [
+        14147882405,
+        135908632589654,
+        84214501374682,
+        2108482542,
+        12261809766,
+        10196549902
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/Fonts/raw/refs/heads/main/sky512_rt.tex"
+    },
+    {
+      "name": "NieboUP",
+      "replace_ids": [
+        14147881297,
+        72960281658487,
+        92138082970751,
+        2108482676,
+        10196567794,
+        12261813678
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/Fonts/raw/refs/heads/main/sky512_up.tex"
+    },
+    {
+      "name": "NieboFT",
+      "replace_ids": [
+        14147882761,
+        12261809766,
+        135908632589654,
+        84214501374682,
+        10196550367,
+        2108482231
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/Fonts/raw/refs/heads/main/sky512_ft.tex"
+    },
+    {
+      "name": "ico arena",
+      "replace_ids": [
+        108088064658436
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/Fonts/blob/main/Arena.png?raw=true"
+    },
+    {
+      "name": "ico docks",
+      "replace_ids": [
+        118450909242865
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/Fonts/blob/main/Docks.png?raw=true"
+    },
+    {
+      "name": "ico szachy",
+      "replace_ids": [
+        88015580366583
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/Fonts/blob/main/Szachy.png?raw=true"
+    },
+    {
+      "name": "Moj wrap (venom)",
+      "replace_ids": [
+        76556449465721
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/Fonts/blob/main/Nowy%20projekt%20(8).png?raw=true"
+    },
+    {
+      "name": "default sniper to Event horizon",
+      "replace_ids": [
+        13269929260
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 81764105421530
+    },
+    {
+      "name": "sniper to event horizon idle",
+      "replace_ids": [
+        13269931582
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 133028871112073
+    },
+    {
+      "name": "sprint event horizon",
+      "replace_ids": [
+        13321899382
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 124791899818888
+    },
+    {
+      "name": "shoot1 to event",
+      "replace_ids": [
+        13269963346
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 131324265853213
+    },
+    {
+      "name": "reload event horizon",
+      "replace_ids": [
+        13642104835
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 121991964753861
+    },
+    {
+      "name": "clean type shit",
+      "replace_ids": [
+        13188893310,
+        13188892855,
+        13188892855,
+        13188892651,
+        13188892532
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "reload-event-horizon-igottasleep:v:",
+      "replace_ids": [
+        13455394948
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17672502716
+    },
+    {
+      "name": "NO BULLET",
+      "replace_ids": [
+        14002915797
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "EVENTHORIZONSHOOTSOUNDS",
+      "replace_ids": [
+        13270206222
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 93542288707517
+    },
+    {
+      "name": "reload-event-horizon-igottasleep:v:2",
+      "replace_ids": [
+        13455229188
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 122971606160018
+    },
+    {
+      "name": "reload-event-horizon-igottasleep:v:3",
+      "replace_ids": [
+        13455229044
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17672502879
+    },
+    {
+      "name": "son",
+      "replace_ids": [
+        13455394948,
+        13455395090
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "bODY",
+      "replace_ids": [
+        13188892761
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/xteamkontakt5-byte/Fonts/refs/heads/main/Evenshittingpieceofshit2.obj"
+    },
+    {
+      "name": "REMOVE",
+      "replace_ids": [
+        14778413014,
+        13188893115,
+        13188893017,
+        14774727092,
+        13188892855,
+        13188893310,
+        13188892651,
+        13188892532
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Reload",
+      "replace_ids": [
+        13642104835
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 121991964753861
+    },
+    {
+      "name": "Reloadempty",
+      "replace_ids": [
+        13269951125
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 130611507137983
+    },
+    {
+      "name": "Remove",
+      "replace_ids": [
+        13455394948
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "removeanotheronepleaseework",
+      "replace_ids": [
+        13455395017,
+        13455394948
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "InspectAnim",
+      "replace_ids": [
+        13269934368
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 89426100452654
+    },
+    {
+      "name": "Image",
+      "replace_ids": [
+        17160799574,
+        132853334508822
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 80749667426815
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        12482022259,
+        12482022363
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        12482022259,
+        12482022363
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Profile 4",
+      "replace_ids": [
+        12613363718
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742841521
+    },
+    {
+      "name": "Profile 5",
+      "replace_ids": [
+        12613190591
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742849437
+    },
+    {
+      "name": "Profile 6",
+      "replace_ids": [
+        12886796453
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742894186
+    },
+    {
+      "name": "Profile 7",
+      "replace_ids": [
+        12613329711
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742879471
+    },
+    {
+      "name": "Profile 8",
+      "replace_ids": [
+        12613320859
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742879471
+    },
+    {
+      "name": "Profile 9",
+      "replace_ids": [
+        12613340305
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742860878
+    },
+    {
+      "name": "Profile 10",
+      "replace_ids": [
+        12613350645
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742864831
+    },
+    {
+      "name": "Profile 11",
+      "replace_ids": [
+        12613354440
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742868264
+    },
+    {
+      "name": "Profile 12",
+      "replace_ids": [
+        123415605337684
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742872634
+    },
+    {
+      "name": "Profile 12",
+      "replace_ids": [
+        12482022430
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/Fonts/raw/refs/heads/main/karambitworking.obj"
+    },
+    {
+      "name": "Profile 13",
+      "replace_ids": [
+        17160800983
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18766863586
+    },
+    {
+      "name": "Main",
+      "replace_ids": [
+        73385702554774
+      ],
+      "mode": "id",
+      "enabled": false,
+      "with_id": 134026555421286
+    },
+    {
+      "name": "Remove",
+      "replace_ids": [
+        124614507878585
+      ],
+      "mode": "id",
+      "enabled": false
+    },
+    {
+      "name": "Image",
+      "replace_ids": [
+        91885384580845
+      ],
+      "mode": "id",
+      "enabled": false,
+      "with_id": 126221748659600
+    },
+    {
+      "name": "ReloadSound",
+      "replace_ids": [
+        99837158417289
+      ],
+      "mode": "id",
+      "enabled": false,
+      "with_id": 72570123237418
+    },
+    {
+      "name": "ShootSound",
+      "replace_ids": [
+        101759165907297,
+        76357741438822
+      ],
+      "mode": "id",
+      "enabled": false,
+      "with_id": 80622617308150
+    },
+    {
+      "name": "scribble arena",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/afntxt/blob/main/Nowy%20projekt.png?raw=true"
+    },
+    {
+      "name": "arena dark mode",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 112448109089773
+    },
+    {
+      "name": "scrib",
+      "replace_ids": [
+        124796745676624
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 112448109089773
+    },
+    {
+      "name": "literaly nothing",
+      "replace_ids": [
+        "43643774568556845747458569697569468343627458670780\u00b06956743745376960"
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 4845745734637589780894575965845745745645756856685569857697
+    }
+  ]
+}

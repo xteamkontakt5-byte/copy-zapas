@@ -1,0 +1,57 @@
+{
+  "replacement_rules": [
+    {
+      "name": "arenka itp",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/afntxt/blob/main/ddsdd.png?raw=true"
+    },
+    {
+      "name": "Adixfn wrap ? venom",
+      "replace_ids": [
+        76556449465721
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/afntxt/blob/main/060.png?raw=true"
+    },
+    {
+      "name": "minka",
+      "replace_ids": [
+        133917828562858
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/afntxt/blob/main/060.png?raw=true"
+    },
+    {
+      "name": "rajwols",
+      "replace_ids": [
+        13854780213
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/afntxt/blob/main/Nowy%20projesdkt.png?raw=true"
+    },
+    {
+      "name": "logo v2",
+      "replace_ids": [
+        17803962335
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/afntxt/blob/main/Nowy%20projesdkt.png?raw=true"
+    },
+    {
+      "name": "jn",
+      "replace_ids": [
+        13854780042
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}

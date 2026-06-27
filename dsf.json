@@ -1,0 +1,13 @@
+{
+  "replacement_rules": [
+    {
+      "name": "huh",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/xteamkontakt5-byte/afntxt/blob/main/Nowy%20projekt.png?raw=true"
+    }
+  ]
+}
